@@ -1,0 +1,163 @@
+Java, Octave/MATLAB, Python, C++, JavaScript, HTML, CSS, SQL, Ruby, C, Kotlin(opt), NIM/UNITY(opt, pls find)
+freeCodeCamp.org
+Hackrio link at bottom, v.good
+Khanacademy for physics and maths
+
+Robotics/Physics/Math
+https://www.coursera.org/specializations/robotics
+https://www.coursera.org/specializations/mathematics-machine-learning
+https://www.coursera.org/specializations/tensorflow-in-practice
+https://www.coursera.org/specializations/power-electronics
+https://www.coursera.org/specializations/internet-of-things
+https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2
+https://www.edx.org/learn/aerospace-engineering
+https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysis
+https://www.edx.org/course/introduction-to-the-internet-of-things-iot
+https://ocw.mit.edu/courses/physics/
+https://www.edx.org/xseries/astrophysics#courses
+
+Plane Plan:
+Build the FT Dart which can be hooked up to an fpv camera for sick flight and photography
+Also build a glider which can use ardupilot to seek thermals also with fpv and solar panels
+
+
+Java and related courses+kotlin - tick and tick
+https://www.edx.org/professional-certificate/hkustx-java-and-android-foundation
+https://www.coursera.org/specializations/java-programming#courses
+https://www.coursera.org/specializations/object-oriented-programming#courses
+https://www.coursera.org/learn/kotlin-for-java-developers
+https://www.coursera.org/specializations/android-app-development#courses
+AP CS A
+https://www.youtube.com/watch?v=F9UC9DY-vIU
+https://www.youtube.com/watch?v=tDv83io8x9U&list=PLTAt6CmaTiJ7SQeSPyPF-YwrOyBOIL2XN
+
+HTML CSS JS - tick tick tick
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://www.javascriptinstitute.org/javascript-certification/
+Make a website integrating HTML, CSS, and JS, SQL
+https://www.edureka.co/masters-program/full-stack-developer-training
+https://www.edx.org/professional-certificate/front-end-web-developer-9
+https://www.coursera.org/specializations/web-design
+https://learn.shayhowe.com/html-css/?ref=hackr.io
+
+https://www.youtube.com/watch?v=Q33KBiDriJY
+https://www.youtube.com/watch?v=mU6anWqZJcc
+
+Codecademy links below
+Vue.js, AngularJS, ReactJS, Meteor.js, Node.js, Express.js, Ember.js, Backbone.js, electronJS, 
+
+Ruby
+https://www.coursera.org/specializations/ruby-on-rails
+https://www.edx.org/professional-certificate/ucberkeleyx-agile-development-using-ruby-on-rails
+Codecademy links provided
+
+SQL
+Codecademy links given.
+In IBM Data Science specialization certificate 
+
+Python + Octave - tick and not tick
+https://www.coursera.org/specializations/python-3-programming
+https://www.coursera.org/learn/machine-learning
+Crash course book
+https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+https://www.edx.org/course/matlab-and-octave-for-beginners
+IBM applied AI specialization certificate
+
+C++/C - tick
+https://www.coursera.org/learn/c-plus-plus-a
+https://www.coursera.org/learn/cs-fundamentals-1
+https://www.coursera.org/learn/c-plus-plus-b
+https://www.codecademy.com/catalog/language/c-plus-plus
+https://www.coursera.org/learn/arduino
+https://www.coursera.org/specializations/cs-fundamentals
+
+
+
+
+
+https://www.codecademy.com/learn/paths/web-development
+https://www.codecademy.com/learn/paths/data-science
+https://www.codecademy.com/learn/paths/computer-science
+https://www.codecademy.com/learn/paths/learn-how-to-build-websites
+https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript
+https://www.codecademy.com/learn/paths/build-web-apps-with-react
+https://www.codecademy.com/learn/paths/create-video-games-with-phaser
+https://www.codecademy.com/learn/paths/analyze-data-with-sql
+https://www.codecademy.com/learn/paths/build-chatbots-with-python
+
+https://www.udacity.com/school-of-ai
+https://www.udacity.com/school-of-autonomous-systems
+https://www.reddit.com/r/learnprogramming/comments/lpgg9/sites_like_codecademy/
+https://www.javascript.com/resources
+https://hackr.io/
+
+
+https://www.coursera.org/specializations/programming-unity-game-development - UNITY
+https://learn.unity.com/course/create-with-code
+https://www.coursera.org/specializations/unity-3d-artist
+https://www.coursera.org/specializations/unity-certified-programmer
+Codecademy: Ruby, SQL, HTML, CSS, JS, C/C++.
+Check out plural sight after codecademy 
+
+Projects: IOT, Full proper website with nice stuff, Games with nim or unity, an OS with C, robots, a couple apps, make a plane for physics (FT dart), AMC and project Euler problems solved for math.
+
+Math class:
+
+99% in additional mathematics IGCSE
+Class on Tuesday, Thursday, Saturday, and Sunday
+400 INR per class
+1.5 hour classes
+Teach 6th-10th grade
+Make own worksheet and materials
+Publish a syllabus 
+Teach each topic\
+Demo available
+Get a reccomender
+Coursera calculus courses
+Linear algebra 
+Game night with buzzer round
+Practice tests on saturday
+
+Physics:
+Use the udemy courses and edx courses
+Aerospace and Aeronautics
+Quantum
+
+Video editing and recording with nintendo switch and obs.
+https://www.freecodecamp.org/news/2019-web-developer-roadmap/
+https://www.freecodecamp.org/news/best-angular-tutorial-angularjs/
+https://www.freecodecamp.org/news/best-sql-database-tutorial/
+https://www.freecodecamp.org/news/best-java-8-tutorial/
+https://www.freecodecamp.org/news/best-react-javascript-tutorial/
+https://www.freecodecamp.org/news/best-html-html5-tutorial/
+https://www.freecodecamp.org/news/best-javascript-tutorial/
+https://www.freecodecamp.org/learn/
+
+Python:
+Pillow, matplotlib, numpy, opencv, keras, tensorflow, arrow, flashtext, pyQT, beautifulsoup, bokeh, eli5, theano, sockets, 
+
+Java:
+https://jaxenter.com/top-10-java-libraries-137587.html
+https://noeticforce.com/useful-java-libraries
+
+JS;
+https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/
+https://hackr.io/blog/top-javascript-libraries
+https://hackr.io/blog/best-javascript-frameworks
+https://www.ubuntupit.com/best-javascript-frameworks-and-libraries/
+https://www.bitdegree.org/tutorials/javascript-libraries/
+
+IOT: http://www.pi-in-the-sky.com/
+https://www.instructables.com/id/Raspberry-Pi-Web-Server/
+http://raspberrypisynthesizer.blogspot.com/
+
+
+https://www.instructables.com/id/DIY-Electron-Accelerator-A-Cathode-Ray-Tube-in-a-/
+https://www.scienceinschool.org/2014/issue30/accelerator
+https://www.youtube.com/watch?v=qQpXGQ4Igks
+http://www.studiopsk.com/handcraftedparticleaccelerator.html
+https://home.cern/science/physics
+https://home.cern/science/accelerators
+https://home.cern/science/engineering
+Bl4s competition
+
