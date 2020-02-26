@@ -1,0 +1,5 @@
+Although I don't have pictures, and this wasnt exactly code,
+I made a portable media center with a gaming station with a Li-po battery
+as well as the Raspberry Pi and a Hypixel Display. I used a small keyboard to 
+control the unit. I could stream videos and play games, unfortunately I didn't have
+the guts to download any torrents!
