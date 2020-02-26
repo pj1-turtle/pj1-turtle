@@ -1,0 +1,15 @@
+Just a small python project, supposed to generate a random string.
+
+
+
+import random
+import string
+
+def randomstuff(stringlength, whichcharactersdoyouwant):
+    return ''.join(random.choice(allowed_chars) for x in range(str_size))
+
+characterstuff = string.ascii_letters + string.punctuation
+size = x
+
+print(chars)
+print('Random String of length x =', randomstuff(size, chars))
