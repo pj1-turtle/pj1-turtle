@@ -1,0 +1,80 @@
+import time
+from random import randint 
+
+MyNumber=randint(0,99)
+print('=====================================')
+print('=Welcome to GuessMyNumber!         =')
+print('=                                              =')
+print('=I will make a random number between=') 
+print('=1 and 100, and you must guess it. If   =')
+print('=you are wrong, I will tell you if        =')
+print('=you need to go higher or lower. Be   =')
+print('=careful, as you only have five  guesses=')
+print('=====================================')
+print()
+print(MyNumber) 
+
+firstGuess = int(input('Ok then, we shall begin! What is your first guess?'))
+print()
+if firstGuess == (MyNumber):
+ print('Well done! You win!')
+ time.sleep(3)
+ exit()
+if firstGuess < MyNumber:
+ print('Go Higher!')
+ time.sleep(3)
+if firstGuess > MyNumber:
+ print('Go Lower!')
+ time.sleep(3)
+
+print()
+secondGuess = int(input('Better luck this time! What is your second guess?'))
+print()
+if secondGuess == MyNumber:
+ print('Well done! You win!')
+ time.sleep(3)
+ exit()
+if secondGuess < MyNumber:
+ print('Go Higher!')
+ time.sleep(3)
+if secondGuess > MyNumber:
+ print('Go Lower!')
+ time.sleep(3)
+
+print()
+ThirdGuess = int(input('C\'mon, you can do it! What is your third guess?'))
+print()
+if ThirdGuess== MyNumber:
+ print('Well done! You win!')
+ time.sleep(3)
+ exit()
+if ThirdGuess < MyNumber:
+ print('Go Higher!')
+ time.sleep(3)
+if ThirdGuess > MyNumber:
+ print('Go Lower!')
+ time.sleep(3)
+
+print()
+FourthGuess = int(input('Dangerously close to losing! What is your fourth guess?'))
+print()
+if FourthGuess == MyNumber:
+ print('Well done! You win!')
+ time.sleep(3)
+ exit()
+if FourthGuess < MyNumber:
+ print('Go Higher!')
+ time.sleep(3)
+if FourthGuess> MyNumber:
+ print('Go Lower!')
+ time.sleep(3)
+
+print()
+FifthGuess = int(input('If you dont get this one right, you lose! But we believe in you Mario! What is your last guess?'))
+print()
+if FifthGuess == MyNumber:
+ print('Well done! You win!')
+ time.sleep(3)
+ exit()
+ if FifthGuess!=MyNumber:
+   print('Too Bad!')
