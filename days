@@ -1,0 +1,11 @@
+Years=int(input('Enter the amount of years you have been alive for.'))
+Months=int(input('Enter the remaining amount of months you have been alive for.'))
+Days=int(input('Enter the remaining number of days you have been alive for.'))
+if Months>12 or Months<1:
+    print ('Invalid input. You can only enter a number from 1 to 12.')
+else:
+    if (Days>31) or (Days<0):
+         print('Invalid input. You can only enter a number below 31 and above 0.')
+    else:
+        UltraDays=(Years*365)+(Months*30)+(Days)
+        print (UltraDays)
