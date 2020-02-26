@@ -1,0 +1,30 @@
+print('===============================================')
+print('I will guess your number. 1 to a 1000. Let us begin.')
+print('===============================================')
+Minimum=0
+Maximum=1000
+counter=0
+while counter<=10:
+  Comp_Guess=(Minimum+Maximum)//2
+  print(Comp_Guess)
+  resp=str(input('Is my guess bigger, smaller, or equal? Use the single keys.'))
+  if (resp)==('='):
+    print('Told you I would do it!')
+    break
+  if(resp)==('>'):
+    print('Hmm...How about...')
+  if (resp)==('>'):
+    Maximum=Comp_Guess
+  if(resp)==('<'):
+    print('Hmm...How about...')
+  if(resp)==('<'):
+    Minimum=Comp_Guess
+  counter=counter+1
+if counter == 10:
+  print('Wha..Whattt?! How did I lose?! V..Very well then...You have outsmarted me...But next time I assure you...I WILL NOT DISAPPOINT!')
+
+
+
+  
+
+  
